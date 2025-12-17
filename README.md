@@ -2,13 +2,13 @@
 End-to-end supply chain performance and profitability analysis using Python and Tableau
 # 📦 Supply Chain Performance & Profitability Dashboard
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes end-to-end supply chain data to evaluate **profitability, delivery performance, and pricing impact**.  
 An interactive Tableau dashboard was built to help business users identify profit drivers, logistics risks, and discount-related profit erosion.
 
 ---
 
-## 🧠 Business Questions Answered
+## Business Questions Answered
 - Which product categories generate the highest profit?
 - Where are late deliveries concentrated geographically?
 - Which shipping modes have the highest late delivery rates?
@@ -16,7 +16,7 @@ An interactive Tableau dashboard was built to help business users identify profi
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - **Python** (pandas, DuckDB) – data cleaning & feature engineering  
 - **SQL** (DuckDB) – KPI aggregation  
 - **Tableau Public** – interactive dashboard & visualization  
@@ -24,7 +24,7 @@ An interactive Tableau dashboard was built to help business users identify profi
 
 ---
 
-## 📊 Key KPIs
+## Key KPIs
 - Total Sales  
 - Total Profit  
 - Average Profit Margin  
@@ -41,7 +41,7 @@ An interactive Tableau dashboard was built to help business users identify profi
 
 ---
 
-## 📈 Dashboard Preview
+##  Dashboard Preview
 
 ### 🔹 Supply Chain Overview
 ![Dashboard Overview](dashboard/dashboard_overview.png)
