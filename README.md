@@ -44,7 +44,7 @@ An interactive Tableau dashboard was built to help business users identify profi
 ##  Dashboard Preview
 
 ### 🔹 Supply Chain Overview
-![Dashboard Overview](discount_impact.png)
+![Dashboard Overview](Dashboard_overview.png)
 
 ### 🔹 Impact of Discount Levels on Profit
 ![Discount Impact](discount_impact.png)
