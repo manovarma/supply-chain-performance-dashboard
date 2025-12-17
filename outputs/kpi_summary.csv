@@ -1,0 +1,2 @@
+total_rows,distinct_orders,total_sales,total_profit,avg_profit_margin,late_delivery_rate,avg_delivery_delay_days
+180519,65752,36784735.013393395,3966902.9740502583,0.1083261165459269,0.5727928916069777,0.5658074773292562
